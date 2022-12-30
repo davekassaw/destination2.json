@@ -1,477 +1,477 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "id": "destination_old.137",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.63356,
-                    6.124613
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 137,
-                "name": "053",
-                "datetimes": "2021-11-29T11:18:52Z",
-                "elevation": 1185.934,
-                "code": 53,
-                "full_name": "Abaya Hayike",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/lake%20abaya.jpg",
-                "short_name": "Abaya",
-                "zone": "Gamo",
-                "wereda": "Arbaminch Zuriya",
-                "kebele": null,
-                "locality_n": null,
-                "organizati": "Public",
-                "destinatio": "Natural",
-                "status": "Existing",
-                "area_sqkm": "1162km",
-                "yearly_est": "13712",
-                "unesco_reg": "No",
-                "descriptio": "Lake Abaya is red in color and is thought to be influenced by the red soil that flows together with the tributaries. The lake is 60 km long and 20 km wide with depth of 13.1 m on average. Lake Abaya is rich in biodiversity, with hippos, crocodiles and ot"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.69",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.567159,
-                    6.275555
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 69,
-                "name": "036",
-                "datetimes": "2021-11-30T13:40:03Z",
-                "elevation": 2828.688,
-                "code": 36,
-                "full_name": "Ayalew Haik",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/lake%20abaya.jpg",
-                "short_name": null,
-                "zone": "Gamo",
-                "wereda": "Chencha",
-                "kebele": "Kale",
-                "locality_n": null,
-                "organizati": "Public",
-                "destinatio": "Man Made",
-                "status": "Existing",
-                "area_sqkm": "2.5Hectar",
-                "yearly_est": "2000",
-                "unesco_reg": "No",
-                "descriptio": "This  attraction  found is north of  part of Chencha  city .This lake is man-made and   estimated area is  man is 2500Sqm. The founder of the lake is called  Ayalew. This lake is mainly based on the local farmers, which are used to be able to benefit fro"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.142",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.45621,
-                    5.802158
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 142,
-                "name": "111",
-                "datetimes": "2021-12-04T10:44:03Z",
-                "elevation": 1134.355,
-                "code": 111,
-                "full_name": "Chame Lake",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/ayalew%20lake.jpg",
-                "short_name": null,
-                "zone": "Gamo",
-                "wereda": "Arbaminch Zuriya",
-                "kebele": null,
-                "locality_n": null,
-                "organizati": "Public",
-                "destinatio": "Natural",
-                "status": "Existing",
-                "area_sqkm": null,
-                "yearly_est": "0",
-                "unesco_reg": "No",
-                "descriptio": "Lake Chamo is one of the lakes around Arba Minch Zuria Gamo Zone. Crocodiles Market is one of the attractions to visit under Lake Chamo. The lake is home of hippos."
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.60",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.57471,
-                    6.193576
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 60,
-                "name": "017",
-                "datetimes": "2021-11-29T12:58:19Z",
-                "elevation": 2436.375,
-                "code": 17,
-                "full_name": "Dorze Gebeya",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/dorze%20market.jpg",
-                "short_name": "Bodo Gaye",
-                "zone": "Gamo",
-                "wereda": "Chencha",
-                "kebele": "Dorze 01",
-                "locality_n": "Gaye",
-                "organizati": "Public",
-                "destinatio": "Cultural",
-                "status": "Existing",
-                "area_sqkm": "2Hectar",
-                "yearly_est": "10000",
-                "unesco_reg": "No",
-                "descriptio": "This Market place  is used by the Dorje community as a market place to celebrate Christmas. Every year, more than 1,000 bulls are slaughtered on the market, and it is slaughtered on the feast of the Cross. The market is located on the road from Arba Minc"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.173",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.555814,
-                    6.004385
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 174,
-                "name": "066",
-                "datetimes": "2021-12-01T07:59:38Z",
-                "elevation": 1179.01,
-                "code": 66,
-                "full_name": "Forty springs",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/forty%20springs.jpg",
-                "short_name": "Forty springs",
-                "zone": "Gamo",
-                "wereda": "Arbaminch Zuriya",
-                "kebele": null,
-                "locality_n": "spring",
-                "organizati": "Public",
-                "destinatio": "Natural",
-                "status": "Existing",
-                "area_sqkm": "1km",
-                "yearly_est": "13712",
-                "unesco_reg": "No",
-                "descriptio": "Forty Springs, There are more than 40 springs in the area, but it is commonly called Arba Minch. The source of the Arba Minch town name is 2 km away from the town. Arba Minch is the natural source of the city and serves as a major source of water for the"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.174",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.59183427,
-                    6.03021673
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 175,
-                "name": "067",
-                "datetimes": "2021-12-01T08:24:57Z",
-                "elevation": 1191.133,
-                "code": 67,
-                "full_name": "Forty Springs Crocodile",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/crocodile%20ranch.jpg",
-                "short_name": "Crocodile Breeding",
-                "zone": "Gamo",
-                "wereda": "Arbaminch Zuriya",
-                "kebele": null,
-                "locality_n": "Crocodile Breeding",
-                "organizati": "Government",
-                "destinatio": "Man Made",
-                "status": "Existing",
-                "area_sqkm": "2km",
-                "yearly_est": "21530",
-                "unesco_reg": "No",
-                "descriptio": "Arba Minch Crocodile Ranching; The only crocodile breeding facility in East Africa was established in 1984 with the main purpose of utilizing the rich crocodile resources of Lake Chamo and Lake Abaya, specially to export crocodile skins and generate fore"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.195",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.292159,
-                    6.43256
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 197,
-                "name": "089",
-                "datetimes": "2021-12-09T08:23:32Z",
-                "elevation": 1133.189,
-                "code": 89,
-                "full_name": "Maze National Park",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/maze%20national%20park.jpg",
-                "short_name": "Maze Park",
-                "zone": "Gamo",
-                "wereda": "Kucha",
-                "kebele": "Morka",
-                "locality_n": null,
-                "organizati": "Government",
-                "destinatio": "Natural",
-                "status": "Existing",
-                "area_sqkm": "202",
-                "yearly_est": "200",
-                "unesco_reg": "No",
-                "descriptio": "Maze National Park is one of the national parks in the south, with five woredas between the Gamo and Gofa zones: Kucha; Drama: Kemba: Zalanakucha Alpha is bordered by a total of 17 kebeles. There are 39 large mammals in the park. Of these, there are rare"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.208",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.48611567,
-                    4.96139711
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 211,
-                "name": null,
-                "datetimes": null,
-                "elevation": 928,
-                "code": 67,
-                "full_name": "Turmi Cattle Market",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/turmi%20cattle%20market.jpg",
-                "short_name": null,
-                "zone": "South Omo",
-                "wereda": "Hamer",
-                "kebele": "Turmi",
-                "locality_n": null,
-                "organizati": "Public",
-                "destinatio": "Cultural",
-                "status": "Existing",
-                "area_sqkm": null,
-                "yearly_est": null,
-                "unesco_reg": "No",
-                "descriptio": "The cattle market is found in Turmi 500 meters away from the Turmin Square on the left side, and the consumers from other locations are rescued such as Hammer and Dassenech. Goats, sheep, and cattle, as well as gamma cattle, are the leading animals for s"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.160",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.647453,
-                    6.32244
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 160,
-                "name": "166",
-                "datetimes": "2021-12-05T11:24:14Z",
-                "elevation": 2607.421,
-                "code": 166,
-                "full_name": "Birbir Mariyam Gedam",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/birbir%20mariyam%20monastry.jpg",
-                "short_name": null,
-                "zone": "Gamo",
-                "wereda": "Mirab Abaya",
-                "kebele": "Zala Gutesa",
-                "locality_n": null,
-                "organizati": "Public",
-                "destinatio": "Man Made",
-                "status": "Existing",
-                "area_sqkm": null,
-                "yearly_est": null,
-                "unesco_reg": "No",
-                "descriptio": null
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.224",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.73630654,
-                    5.51783442
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 235,
-                "name": null,
-                "datetimes": null,
-                "elevation": 1596,
-                "code": 122,
-                "full_name": "Key Afer Cluster Zilay Bota Mikel",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/key%20afer.jpg",
-                "short_name": null,
-                "zone": "South Omo",
-                "wereda": "Bena Tsemay",
-                "kebele": "Key Afer",
-                "locality_n": null,
-                "organizati": "Government",
-                "destinatio": "Man Made",
-                "status": "Existing",
-                "area_sqkm": "400m",
-                "yearly_est": null,
-                "unesco_reg": "No",
-                "descriptio": "Jumping spots in the “KEY AFER “ are ideal for tourists. It is visited by up to 400 people a year . What makes the city special is that it attracts a lot of visitors and is very close to the neighboring kebeles (Olka Kibo, Shaba Argededa, Gurm Mero,"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.122",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.342717,
-                    6.044184
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 122,
-                "name": "073",
-                "datetimes": "2021-12-03T08:26:45Z",
-                "elevation": 3155.214,
-                "code": 73,
-                "full_name": "Mano Terara",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/mano%20mount.jpg",
-                "short_name": "Mano",
-                "zone": "Gamo",
-                "wereda": "Bonke",
-                "kebele": "Kola Zale",
-                "locality_n": "Adegora",
-                "organizati": "Public",
-                "destinatio": "Natural",
-                "status": "Potential",
-                "area_sqkm": "32Ha",
-                "yearly_est": null,
-                "unesco_reg": "No",
-                "descriptio": "Mount Mano is located in Kole Zale Kebele, Bonke Woreda. This mountain is located 42 km from Arba Minch and 7 km from Gaziso town. The mountain area is 18-20 hectares. At the top of this mountain is the place where the people of Kole Kanchame and Kole Za"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.172",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.556822,
-                    6.003265
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 173,
-                "name": "065",
-                "datetimes": "2021-12-01T07:49:30Z",
-                "elevation": 1193.293,
-                "code": 65,
-                "full_name": "Ground Water Forest",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/ground%20water%20forest.jpg",
-                "short_name": null,
-                "zone": "Gamo",
-                "wereda": "Arbaminch Zuriya",
-                "kebele": null,
-                "locality_n": "Arbaminch Forest",
-                "organizati": "Public",
-                "destinatio": "Natural",
-                "status": "Existing",
-                "area_sqkm": "10km",
-                "yearly_est": "13712",
-                "unesco_reg": "No",
-                "descriptio": "Arba Minch Forest Known as the Ground Water Forest, this jungle follows the foothills of Arba Minch town on the shores of Lake Abaya and extends along the God’s Bridge to Lake Chamo Lake. It contains trees up to 30 30m tall, with forty springs flowing"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.278",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.4881946,
-                    5.80947348
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 295,
-                "name": null,
-                "datetimes": null,
-                "elevation": 1294,
-                "code": 163,
-                "full_name": "Zanab Forest",
-                "img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/zanab%20forest.jpg",
-                "short_name": null,
-                "zone": "South Omo",
-                "wereda": "Baka Dawla",
-                "kebele": "Kure",
-                "locality_n": "Duma",
-                "organizati": "Public",
-                "destinatio": "Natural",
-                "status": "Potential",
-                "area_sqkm": "700Ha",
-                "yearly_est": null,
-                "unesco_reg": null,
-                "descriptio": "Zanabe forest is thought to have been establishment around 1931. The area is covered with dense forest and there are a variety of plants in it. No human being in the area."
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "destination_old.279",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.64180141,
-                    5.83574508
-                ]
-            },
-            "geometry_name": "the_geom",
-            "properties": {
-                "objectid": 296,
-                "name": null,
-                "datetimes": null,
-                "elevation": 2417,
-                "code": 179,
-                "full_name": "Bako Den",
-                "img": "https://github.com/ermyas04/arbaminchdestination/blob/main/bako%20chaka.jpg",
-                "short_name": null,
-                "zone": "South Omo",
-                "wereda": "Baka Dawla",
-                "kebele": "Bako",
-                "locality_n": "Disa",
-                "organizati": "Public",
-                "destinatio": "Natural",
-                "status": "Potential",
-                "area_sqkm": null,
-                "yearly_est": null,
-                "unesco_reg": "No",
-                "descriptio": "The forest is one of the forests the government has been established since 1945. Foreign come to the area and built a school, roads and community health center. Compared to other attractions, it is closer to the city and easier to drive."
-            }
-        }
-    ],
-    "totalFeatures": 279,
-    "numberMatched": 279,
-    "numberReturned": 279,
-    "timeStamp": "2022-11-11T06:38:05.156Z",
-    "crs": {
-        "type": "name",
-        "properties": {
-            "name": "urn:ogc:def:crs:EPSG::4326"
-        }
-    }
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"id": "destination_old.137",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.63356,
+6.124613
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 137,
+"name": "053",
+"datetimes": "2021-11-29T11:18:52Z",
+"elevation": 1185.934,
+"code": 53,
+"full_name": "Abaya Hayike",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/lake%20abaya.jpg",
+"short_name": "Abaya",
+"zone": "Gamo",
+"wereda": "Arbaminch Zuriya",
+"kebele": null,
+"locality_n": null,
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "1162km",
+"yearly_est": "13712",
+"unesco_reg": "No",
+"descriptio": "Lake Abaya is red in color and is thought to be influenced by the red soil that flows together with the tributaries. The lake is 60 km long and 20 km wide with depth of 13.1 m on average. Lake Abaya is rich in biodiversity, with hippos, crocodiles and ot"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.69",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.567159,
+6.275555
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 69,
+"name": "036",
+"datetimes": "2021-11-30T13:40:03Z",
+"elevation": 2828.688,
+"code": 36,
+"full_name": "Ayalew Haik",
+"img": "http://photos.wikimapia.org/p/00/00/24/72/32_big.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Chencha",
+"kebele": "Kale",
+"locality_n": null,
+"organizati": "Public",
+"destinatio": "Man Made",
+"status": "Existing",
+"area_sqkm": "2.5Hectar",
+"yearly_est": "2000",
+"unesco_reg": "No",
+"descriptio": "This  attraction  found is north of  part of Chencha  city .This lake is man-made and   estimated area is  man is 2500Sqm. The founder of the lake is called  Ayalew. This lake is mainly based on the local farmers, which are used to be able to benefit fro"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.142",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.45621,
+5.802158
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 142,
+"name": "111",
+"datetimes": "2021-12-04T10:44:03Z",
+"elevation": 1134.355,
+"code": 111,
+"full_name": "Chame Lake",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/ayalew%20lake.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Arbaminch Zuriya",
+"kebele": null,
+"locality_n": null,
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": null,
+"yearly_est": "0",
+"unesco_reg": "No",
+"descriptio": "Lake Chamo is one of the lakes around Arba Minch Zuria Gamo Zone. Crocodiles Market is one of the attractions to visit under Lake Chamo. The lake is home of hippos."
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.60",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.57471,
+6.193576
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 60,
+"name": "017",
+"datetimes": "2021-11-29T12:58:19Z",
+"elevation": 2436.375,
+"code": 17,
+"full_name": "Dorze Gebeya",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/dorze%20market.jpg",
+"short_name": "Bodo Gaye",
+"zone": "Gamo",
+"wereda": "Chencha",
+"kebele": "Dorze 01",
+"locality_n": "Gaye",
+"organizati": "Public",
+"destinatio": "Cultural",
+"status": "Existing",
+"area_sqkm": "2Hectar",
+"yearly_est": "10000",
+"unesco_reg": "No",
+"descriptio": "This Market place  is used by the Dorje community as a market place to celebrate Christmas. Every year, more than 1,000 bulls are slaughtered on the market, and it is slaughtered on the feast of the Cross. The market is located on the road from Arba Minc"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.173",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.555814,
+6.004385
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 174,
+"name": "066",
+"datetimes": "2021-12-01T07:59:38Z",
+"elevation": 1179.01,
+"code": 66,
+"full_name": "Forty springs",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/forty%20springs.jpg",
+"short_name": "Forty springs",
+"zone": "Gamo",
+"wereda": "Arbaminch Zuriya",
+"kebele": null,
+"locality_n": "spring",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "1km",
+"yearly_est": "13712",
+"unesco_reg": "No",
+"descriptio": "Forty Springs, There are more than 40 springs in the area, but it is commonly called Arba Minch. The source of the Arba Minch town name is 2 km away from the town. Arba Minch is the natural source of the city and serves as a major source of water for the"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.174",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.59183427,
+6.03021673
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 175,
+"name": "067",
+"datetimes": "2021-12-01T08:24:57Z",
+"elevation": 1191.133,
+"code": 67,
+"full_name": "Forty Springs Crocodile",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/crocodile%20ranch.jpg",
+"short_name": "Crocodile Breeding",
+"zone": "Gamo",
+"wereda": "Arbaminch Zuriya",
+"kebele": null,
+"locality_n": "Crocodile Breeding",
+"organizati": "Government",
+"destinatio": "Man Made",
+"status": "Existing",
+"area_sqkm": "2km",
+"yearly_est": "21530",
+"unesco_reg": "No",
+"descriptio": "Arba Minch Crocodile Ranching; The only crocodile breeding facility in East Africa was established in 1984 with the main purpose of utilizing the rich crocodile resources of Lake Chamo and Lake Abaya, specially to export crocodile skins and generate fore"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.195",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.292159,
+6.43256
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 197,
+"name": "089",
+"datetimes": "2021-12-09T08:23:32Z",
+"elevation": 1133.189,
+"code": 89,
+"full_name": "Maze National Park",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/maze%20national%20park.jpg",
+"short_name": "Maze Park",
+"zone": "Gamo",
+"wereda": "Kucha",
+"kebele": "Morka",
+"locality_n": null,
+"organizati": "Government",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "202",
+"yearly_est": "200",
+"unesco_reg": "No",
+"descriptio": "Maze National Park is one of the national parks in the south, with five woredas between the Gamo and Gofa zones: Kucha; Drama: Kemba: Zalanakucha Alpha is bordered by a total of 17 kebeles. There are 39 large mammals in the park. Of these, there are rare"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.208",
+"geometry": {
+"type": "Point",
+"coordinates": [
+36.48611567,
+4.96139711
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 211,
+"name": null,
+"datetimes": null,
+"elevation": 928,
+"code": 67,
+"full_name": "Turmi Cattle Market",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/turmi%20cattle%20market.jpg",
+"short_name": null,
+"zone": "South Omo",
+"wereda": "Hamer",
+"kebele": "Turmi",
+"locality_n": null,
+"organizati": "Public",
+"destinatio": "Cultural",
+"status": "Existing",
+"area_sqkm": null,
+"yearly_est": null,
+"unesco_reg": "No",
+"descriptio": "The cattle market is found in Turmi 500 meters away from the Turmin Square on the left side, and the consumers from other locations are rescued such as Hammer and Dassenech. Goats, sheep, and cattle, as well as gamma cattle, are the leading animals for s"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.160",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.647453,
+6.32244
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 160,
+"name": "166",
+"datetimes": "2021-12-05T11:24:14Z",
+"elevation": 2607.421,
+"code": 166,
+"full_name": "Birbir Mariyam Gedam",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/birbir%20mariyam%20monastry.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Mirab Abaya",
+"kebele": "Zala Gutesa",
+"locality_n": null,
+"organizati": "Public",
+"destinatio": "Man Made",
+"status": "Existing",
+"area_sqkm": null,
+"yearly_est": null,
+"unesco_reg": "No",
+"descriptio": null
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.224",
+"geometry": {
+"type": "Point",
+"coordinates": [
+36.73630654,
+5.51783442
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 235,
+"name": null,
+"datetimes": null,
+"elevation": 1596,
+"code": 122,
+"full_name": "Key Afer Cluster Zilay Bota Mikel",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/key%20afer.jpg",
+"short_name": null,
+"zone": "South Omo",
+"wereda": "Bena Tsemay",
+"kebele": "Key Afer",
+"locality_n": null,
+"organizati": "Government",
+"destinatio": "Man Made",
+"status": "Existing",
+"area_sqkm": "400m",
+"yearly_est": null,
+"unesco_reg": "No",
+"descriptio": "Jumping spots in the “KEY AFER “ are ideal for tourists. It is visited by up to 400 people a year . What makes the city special is that it attracts a lot of visitors and is very close to the neighboring kebeles (Olka Kibo, Shaba Argededa, Gurm Mero,"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.122",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.342717,
+6.044184
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 122,
+"name": "073",
+"datetimes": "2021-12-03T08:26:45Z",
+"elevation": 3155.214,
+"code": 73,
+"full_name": "Mano Terara",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/mano%20mount.jpg",
+"short_name": "Mano",
+"zone": "Gamo",
+"wereda": "Bonke",
+"kebele": "Kola Zale",
+"locality_n": "Adegora",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Potential",
+"area_sqkm": "32Ha",
+"yearly_est": null,
+"unesco_reg": "No",
+"descriptio": "Mount Mano is located in Kole Zale Kebele, Bonke Woreda. This mountain is located 42 km from Arba Minch and 7 km from Gaziso town. The mountain area is 18-20 hectares. At the top of this mountain is the place where the people of Kole Kanchame and Kole Za"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.172",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.556822,
+6.003265
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 173,
+"name": "065",
+"datetimes": "2021-12-01T07:49:30Z",
+"elevation": 1193.293,
+"code": 65,
+"full_name": "Ground Water Forest",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/ground%20water%20forest.jpg",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Arbaminch Zuriya",
+"kebele": null,
+"locality_n": "Arbaminch Forest",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "10km",
+"yearly_est": "13712",
+"unesco_reg": "No",
+"descriptio": "Arba Minch Forest Known as the Ground Water Forest, this jungle follows the foothills of Arba Minch town on the shores of Lake Abaya and extends along the God’s Bridge to Lake Chamo Lake. It contains trees up to 30 30m tall, with forty springs flowing"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.278",
+"geometry": {
+"type": "Point",
+"coordinates": [
+36.4881946,
+5.80947348
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 295,
+"name": null,
+"datetimes": null,
+"elevation": 1294,
+"code": 163,
+"full_name": "Zanab Forest",
+"img": "https://raw.githubusercontent.com/ermyas04/arbaminchdestination/main/zanab%20forest.jpg",
+"short_name": null,
+"zone": "South Omo",
+"wereda": "Baka Dawla",
+"kebele": "Kure",
+"locality_n": "Duma",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Potential",
+"area_sqkm": "700Ha",
+"yearly_est": null,
+"unesco_reg": null,
+"descriptio": "Zanabe forest is thought to have been establishment around 1931. The area is covered with dense forest and there are a variety of plants in it. No human being in the area."
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.279",
+"geometry": {
+"type": "Point",
+"coordinates": [
+36.64180141,
+5.83574508
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 296,
+"name": null,
+"datetimes": null,
+"elevation": 2417,
+"code": 179,
+"full_name": "Bako Den",
+"img": "https://www.researchgate.net/profile/Dagnachew-Mullu/publication/322235329/figure/fig2/AS:578828902252544@1515014972308/A-view-of-Arba-Minch-forest.png",
+"short_name": null,
+"zone": "South Omo",
+"wereda": "Baka Dawla",
+"kebele": "Bako",
+"locality_n": "Disa",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Potential",
+"area_sqkm": null,
+"yearly_est": null,
+"unesco_reg": "No",
+"descriptio": "The forest is one of the forests the government has been established since 1945. Foreign come to the area and built a school, roads and community health center. Compared to other attractions, it is closer to the city and easier to drive."
+}
+}
+],
+"totalFeatures": 279,
+"numberMatched": 279,
+"numberReturned": 279,
+"timeStamp": "2022-11-11T06:38:05.156Z",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:EPSG::4326"
+}
+}
 }
